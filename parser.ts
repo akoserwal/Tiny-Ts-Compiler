@@ -1,0 +1,9 @@
+namespace ts {
+    
+
+namespace Parser {
+
+
+}
+
+}
